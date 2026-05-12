@@ -9,7 +9,7 @@ I started from the fundamentals and I am consistently improving my problem-solvi
 
 ## 🚀 My Learning Approach
 
-* 📅 I upload **4–5 C programs daily**
+* 📅 I upload **3–4 C programs daily**
 * 🧠 Focus on **logic building and problem-solving**
 * 🔁 Continuous revision of core concepts
 * 📈 Gradual progression from **basic → intermediate → advanced**
